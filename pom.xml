@@ -15,7 +15,7 @@
 		<testng.version>6.8</testng.version>
 		<selenium.version>3.12.0</selenium.version>
 		<selenium.htmlunitdriver.version>2.29.0</selenium.htmlunitdriver.version>
-		<poi.version>3.17</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<cucumber.version>1.2.5</cucumber.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
